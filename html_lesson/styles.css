@@ -38,4 +38,10 @@ font-weight: bold;
 font-family: Corier New;
 }
 
+.paragraph-4 {
+font-size:24px;
+transform:rotate(10deg);
+text-align: center;
+}
+
 
