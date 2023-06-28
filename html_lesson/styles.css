@@ -42,6 +42,8 @@ font-family: Corier New;
 font-size:24px;
 transform:rotate(10deg);
 text-align: center;
+text-shadow: green 2px 3px 5px;
+margin-top:110px;
 }
 
 
